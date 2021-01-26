@@ -23,11 +23,11 @@ Below are screenshots of the current revision of the schematic (created in Eagle
 [PC/104](https://pc104.org/wp-content/uploads/2015/02/PC104_Spec_v2_6.pdf)
 
 ## Progress
-- [] Select microcontroller
-- [] Select RF transceiver
-- [] Select CAN transceiver
-- [] Create schematic
-- [] Layout board
-- [] Route board
-- [] Order board
-- [] Test board
+- [ ] Select microcontroller
+- [ ] Select RF transceiver
+- [ ] Select CAN transceiver
+- [ ] Create schematic
+- [ ] Layout board
+- [ ] Route board
+- [ ] Order board
+- [ ] Test board
