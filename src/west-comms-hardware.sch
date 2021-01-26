@@ -2631,7 +2631,7 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 </classes>
 <parts>
 <part name="X1" library="con-pc104" library_urn="urn:adsk.eagle:library:171" deviceset="PC104_STANDARD" device="1" package3d_urn="urn:adsk.eagle:package:9297/1"/>
-<part name="U$1" library="SparkFun-IC-Microcontroller" library_urn="urn:adsk.eagle:library:525" deviceset="STM32F405RG" device="" package3d_urn="urn:adsk.eagle:package:38936/1" value="STM32F405RGT6"/>
+<part name="U$1" library="SparkFun-IC-Microcontroller" library_urn="urn:adsk.eagle:library:525" deviceset="STM32F405RG" device="" package3d_urn="urn:adsk.eagle:package:38936/1" value="STM32F412RGT7"/>
 <part name="U$2" library="west-eagle-library" deviceset="CC1120" device=""/>
 <part name="U$3" library="west-eagle-library" deviceset="CC1120" device=""/>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="FRAME_C_L" device=""/>
@@ -2662,7 +2662,7 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <attribute name="VALUE" x="76.2" y="299.72" size="2.54" layer="96"/>
 </instance>
 <instance part="U$2" gate="G$1" x="121.92" y="177.8" smashed="yes"/>
-<instance part="U$3" gate="G$1" x="314.96" y="180.34" smashed="yes"/>
+<instance part="U$3" gate="G$1" x="314.96" y="177.8" smashed="yes"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
 <instance part="FRAME1" gate="G$2" x="452.12" y="0" smashed="yes">
 <attribute name="LAST_DATE_TIME" x="464.82" y="1.27" size="2.54" layer="94"/>
